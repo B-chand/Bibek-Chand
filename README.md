@@ -9,7 +9,7 @@
 
 ### 🛢 Database
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white)
-![Structured Projects](https://img.shields.io/badge/Structured-4B0082?logo=postgresql&logoColor=white)
+
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
